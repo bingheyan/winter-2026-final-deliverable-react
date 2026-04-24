@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Goodbye!!!!! <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Goodbye!!!!! Arrivederci!!Ciao 579
           </p>
           <h2>uniqname: binghe</h2>
           <h2>name: Binny Yan</h2>
